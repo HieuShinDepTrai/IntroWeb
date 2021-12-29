@@ -211,6 +211,7 @@ html {
 #content .work-name {
     font-size: 25px;
     color: #8B658B;
+    font-weight: bold;
 }
 
 #content .work-img {
