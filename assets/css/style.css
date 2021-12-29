@@ -136,6 +136,8 @@ html {
     padding-top: 66.7%;
     background: url('../../assets/img/slider/slider1.jpg') top center / cover no-repeat;
     width: 100%;
+
+    transition: background 1s ease-in-out;
 }
 
 #slider .text-content {
