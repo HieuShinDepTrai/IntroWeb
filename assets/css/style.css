@@ -76,7 +76,7 @@ html {
 
 #nav > li:hover > a,
 #nav .subnav li:hover a {
-    color: #000;
+    color: #8B658B;
     background-color: #ccc;
 }
 
@@ -84,12 +84,12 @@ html {
     display: none;
     min-width: 250px;
     position: absolute;
-    background-color: #fff;
+    background-color: #B9D6F3;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 #nav .subnav a {
-    color: #000;
+    color: #8B658B;
     padding: 0 12px;
     line-height: 38px;
 }
